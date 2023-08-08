@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "169784782767",
+    "firebase_url": "https://emerald-talk.firebaseio.com",
+    "project_id": "emerald-talk",
+    "storage_bucket": "emerald-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169784782767:android:487535d348d29746",
+        "android_client_info": {
+          "package_name": "com.messenger.emeraldtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169784782767-2vgufnopre11hqfqod6le508fo5kt9gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCygFumHndTmpRs_tUL8lf5U2VpMRAZ5AU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
